@@ -4,7 +4,7 @@
 
 **PhD Candidate in Biotechnology — Plant Population Genomics & Crop Evolutionary Biology**
 
-📍 Zurich, Switzerland &nbsp;·&nbsp; 📧 xpkk@zhaw.ch &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/mohammad-pakdel)
+📍 Zurich, Switzerland &nbsp;·&nbsp; 📧 xpkk@zhaw.ch &nbsp;·&nbsp; 🔗 [[LinkedIn](https://linkedin.com/in/mohammad-pakdel](https://www.linkedin.com/in/mohammad-pakdel-910211237/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bx5V%2FocUBT8i4dwDuSRE9RQ%3D%3D))
 
 </div>
 
