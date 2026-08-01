@@ -4,7 +4,7 @@
 
 **PhD Candidate in Biotechnology — Plant Population Genomics & Crop Evolutionary Biology**
 
-<<<<<<< HEAD
+
 📍 Zurich, Switzerland &nbsp;·&nbsp; 📧 xpkk@zhaw.ch &nbsp;·&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-pakdel-910211237/)
 
 </div>
@@ -22,7 +22,7 @@ I led the full bioinformatic pipeline for a genome-scale study of the Iranian ol
 - 🌿 **Population & comparative genomics** of *Olea europaea* — WGS variant discovery, phylogenomics, selection-sweep and LD-decay analysis, cross-species synteny
 - 🧬 **GWAS & trait mapping** — mixed-model association, pathway enrichment, candidate-gene prioritization
 - 🧪 **Structural biology / molecular dynamics** — protein stability simulations (GROMACS/CHARMM36m), extending computational skills beyond genomics into biophysical characterization
-- 👩‍🏫 Supervising Master's students at ZHAW on genomic data analysis and workflow design
+
 
 ## Tech Stack & Tools
 
