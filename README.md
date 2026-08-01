@@ -45,9 +45,9 @@ I led the full bioinformatic pipeline for a genome-scale study of the Iranian ol
 
 - *Comprehensive analysis of the Iranian olive collection at the genome level* — **Nature Communications** (under review)
 - *A Genome-Wide STR Atlas and Genetic Diversity of Iranian and Mediterranean* Olea europaea — **Genome Biology** (under review)
-- *Machine learning-aided microRNA discovery for olive oil quality* — **PLOS ONE**, 2024
-- *Comprehensive In Vitro and Whole-Genome Characterization of Probiotic Properties in* Pediococcus acidilactici *P10* — **Scientific Reports**, 2025
-- *Identification of hub salt-responsive genes in* Cucumis sativus *using a lncRNA–mRNA interaction network* — **Horticulture, Environment and Biotechnology**, 2022
+- [*Machine learning-aided microRNA discovery for olive oil quality*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311569) — **PLOS ONE**, 2024
+- [*Comprehensive In Vitro and Whole-Genome Characterization of Probiotic Properties in* Pediococcus acidilactici *P10*](https://www.nature.com/articles/s41598-025-13470-w) — **Scientific Reports**, 2025
+- [*Identification of hub salt-responsive genes in* Cucumis sativus *using a lncRNA–mRNA interaction network*](https://link.springer.com/article/10.1007/s13580-021-00418-y) — **Horticulture, Environment and Biotechnology**, 2022
 
 Full publication list on [LinkedIn](https://www.linkedin.com/in/mohammad-pakdel-910211237/).
 
