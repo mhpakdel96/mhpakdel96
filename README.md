@@ -4,7 +4,7 @@
 
 **PhD Candidate in Biotechnology — Plant Population Genomics & Crop Evolutionary Biology**
 
-📍 Zurich, Switzerland &nbsp;·&nbsp; 📧 xpkk@zhaw.ch &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/mohammad-pakdel)
+📍 Zurich, Switzerland &nbsp;·&nbsp; 📧 xpkk@zhaw.ch &nbsp;·&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-pakdel-910211237/)
 
 </div>
 
@@ -49,7 +49,7 @@ I led the full bioinformatic pipeline for a genome-scale study of the Iranian ol
 - *Comprehensive In Vitro and Whole-Genome Characterization of Probiotic Properties in* Pediococcus acidilactici *P10* — **Scientific Reports**, 2025
 - *Identification of hub salt-responsive genes in* Cucumis sativus *using a lncRNA–mRNA interaction network* — **Horticulture, Environment and Biotechnology**, 2022
 
-Full publication list on [LinkedIn](https://linkedin.com/in/mohammad-pakdel).
+Full publication list on [LinkedIn](https://www.linkedin.com/in/mohammad-pakdel-910211237/).
 
 ## Languages
 
